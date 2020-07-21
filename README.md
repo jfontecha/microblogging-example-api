@@ -1,4 +1,4 @@
-# "Aplicación web de microblogging con MERN" - Back-end
+# "Aplicación web de microblogging con MERN" (Back-end)
 
 API REST del proyecto "Aplicación web de microblogging con MERN", creada con NodeJS y ExpressJS. Con conexión a base de datos MongoDB a través de MongoDB Atlas
 
