@@ -1,18 +1,18 @@
-# API REST - Backend del proyecto "Aplicación web de microblogging con MERN"
+# "Aplicación web de microblogging con MERN" - API REST
 
-_API REST del proyecto "Aplicación web de microblogging con MERN", creada en NodeJS y ExpressJS. Con conexión a base de datos MongoDB a través de MongoDB Atlas_
+API REST del proyecto "Aplicación web de microblogging con MERN", creada con NodeJS y ExpressJS. Con conexión a base de datos MongoDB a través de MongoDB Atlas
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas_
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 ### Pre-requisitos 📋
 
-Se requiere la instalación de node y el gestor de paquetes npm. Es necesario tener una base de datos MongoDB desplegada (por ejemplo, en [MongoDB Atlas](https://www.mongodb.com/cloud/atlas))
+Se requiere la instalación de node y el gestor de paquetes npm. Es necesario tener una base de datos MongoDB desplegada (por ejemplo, en [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)).
 
 ### Instalación 🔧
 
-_Instrucciones para la ejecución de la API REST en local_
+_Instrucciones para la ejecución de la API REST en local:_
 
 Se necesitarán instalar las dependencias del proyecto y setear las siguientes variables de entorno (o bien crear un fichero ".env" con las mismas):
 
@@ -20,21 +20,21 @@ Se necesitarán instalar las dependencias del proyecto y setear las siguientes v
 | ------------- | ------------- |
 | NODE_ENV  | development  |
 | PORT  | 5000  |
-| DB_URI  | <Cadena de conexión a la BBDD>  |
+| DB_URI  | 'Cadena de conexión a la BBDD'  |
 
-_Instalación de dependencias:_
+Instalación de dependencias:
 
 ```
 npm install
 ```
 
-_Ejecución de la API REST:_
+Ejecución de la API REST:
 
 ```
 npm start
 ```
 
-_Una vez ejecutada, estará disponible en la URL definida (por ejemplo: "http://localhost:5000") y podremos probar sus servicios con cualquier cliente REST_
+_Una vez ejecutada, estará disponible en la URL definida (por ejemplo: "http://localhost:5000") y podremos probar sus servicios con un cliente REST._
 
 * Solicitudes principales de la API REST para el acceso a recursos de los usuarios:
 
@@ -59,7 +59,7 @@ Solicitud | Ruta | Descripción |
 
 ## Despliegue en heroku 📦
 
-_Adicionalmente puedes desplegar la API REST en la plataforma [Heroku](https://heroku.com/)_
+_Adicionalmente puedes desplegar la API REST en la plataforma [Heroku](https://heroku.com/)._
 
 Para ello, podrás crear una aplicación en Heroku y conectarla al repositorio Github dónde tengas alojada esta API REST
 
@@ -75,8 +75,8 @@ _Esste proyecto ha sido creado con:_
 
 Puedes encontrar más información del proyecto en [Desarrollo web full-stack con MERN](https://jesusfontecha.name/mern/)
 
-📢 _También se ha desarrollado una aplicación web con ReactJS capaz de consumir esta API REST_
-Accesible en:
+📢 _También se ha desarrollado una aplicación web con ReactJS capaz de consumir esta API REST
+Accesible en:_
 * [Aplicación web con React](https://github.com/jfontecha/microblogging-example-react-classes)
 * [Aplicación web con React hooks](https://github.com/jfontecha/microblogging-example-react-hooks)
 
@@ -88,7 +88,7 @@ _Proyecto desarrollado por:_
 
 ## Licencia 📄
 
-Este proyecto es _opensource_ y se ha desarrollado con fines exclusivamente académicos. Si lo descargas, al menos menciona a los autores 🤓🍺.
+Este proyecto es _opensource_ y se ha desarrollado con fines exclusivamente académicos. Si lo descargas, al menos menciona al autor 🤓🍺.
 
 ---
 _Made with love for a smarter world_ ❤️
