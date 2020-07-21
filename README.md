@@ -1,4 +1,4 @@
-# "Aplicación web de microblogging con MERN" - API REST
+# "Aplicación web de microblogging con MERN" - Back-end
 
 API REST del proyecto "Aplicación web de microblogging con MERN", creada con NodeJS y ExpressJS. Con conexión a base de datos MongoDB a través de MongoDB Atlas
 
@@ -61,7 +61,7 @@ Solicitud | Ruta | Descripción |
 
 _Adicionalmente puedes desplegar la API REST en la plataforma [Heroku](https://heroku.com/)._
 
-Para ello, podrás crear una aplicación en Heroku y conectarla al repositorio Github dónde tengas alojada esta API REST
+Para ello, podrás crear una aplicación en Heroku y conectarla al repositorio Github dónde tengas alojada esta API REST.
 
 ## Construido con 🛠️
 
@@ -75,7 +75,7 @@ _Esste proyecto ha sido creado con:_
 
 Puedes encontrar más información del proyecto en [Desarrollo web full-stack con MERN](https://jesusfontecha.name/mern/)
 
-📢 _También se ha desarrollado una aplicación web con ReactJS capaz de consumir esta API REST
+📢 _También se ha desarrollado una aplicación web con ReactJS capaz de consumir esta API REST.
 Accesible en:_
 * [Aplicación web con React](https://github.com/jfontecha/microblogging-example-react-classes)
 * [Aplicación web con React hooks](https://github.com/jfontecha/microblogging-example-react-hooks)
